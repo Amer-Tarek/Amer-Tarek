@@ -78,13 +78,19 @@ me.say_hi()
 
 
 ---
+## 📊 GitHub Stats
+
+![Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amer-Tarek&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amer-Tarek&layout=compact&theme=tokyonight)
+
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amer-tarek-4b244520a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amertarek653@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amertarek653@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amer-Tarek)
 
 </div>
@@ -92,8 +98,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Amer-Tarek&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
