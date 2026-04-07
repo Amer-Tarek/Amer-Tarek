@@ -15,20 +15,33 @@
 ## 👨‍💻 About Me
 
 ```python
-class AmerTarek:
+class AIEngineer:
     def __init__(self):
-        self.name        = "Amer Tarek"
-        self.role        = "AI Engineer"
-        self.location    = "Cairo, Egypt 🇪🇬"
-        self.language    = "Python 🐍"
-        self.interests   = ["Computer Vision", "Deep Learning", "NLP", "AI Agents", "LLMs"]
-        self.ask_me      = "Anything about CV, NLP, or AI Agents!"
+        self.name = "Amer Tarek"
+        self.role = "AI Engineer"
+        self.location = "Cairo, Egypt 🇪🇬"
+        
+        self.skills = {
+            "AI": ["Computer Vision", "Deep Learning", "NLP"],
+            "Focus": ["AI Agents", "LLMs", "Real-time Systems"]
+        }
+
+    def current_focus(self):
+        return [
+            "🚀 Building AI Agents with LangGraph",
+            "🎯 Improving real-time Computer Vision systems",
+            "🧠 Exploring multimodal LLMs"
+        ]
+
+    def contact(self):
+        return "💬 Ask me about CV, NLP, or AI Systems!"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something intelligent together 🚀")
+        return "Thanks for visiting my profile — let's build something intelligent together 🚀"
 
-me = AmerTarek()
-me.say_hi()
+
+me = AIEngineer()
+print(me.say_hi())
 ```
 
 ---
