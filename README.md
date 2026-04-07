@@ -24,6 +24,7 @@ class AmerTarek:
         self.location    = "Cairo, Egypt 🇪🇬"
         self.language    = "Python 🐍"
         self.interests   = ["Computer Vision", "Deep Learning", "NLP", "AI Agents", "LLMs"]
+        self.ask_me     = "Anything about AI & ML!"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something intelligent together 🚀")
