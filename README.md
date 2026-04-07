@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer+%26+ML+Enthusiast;👁️+Computer+Vision+Specialist;🧠+Building+Intelligent+Systems;🚀+LLMs+%7C+AI+Agents+%7C+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer+%26+ML;👁️+Computer+Vision+Specialist;🧠+Building+Intelligent+Systems;🚀+Deep+Learning+%7C+AI+Agents+%7C+LLMs)](https://git.io/typing-svg)
 
 </div>
 
@@ -98,4 +98,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-هل تقترح عليا اي تعديل في ده ده هيكون شكل البروفيل بتاعي علي جيت هب
