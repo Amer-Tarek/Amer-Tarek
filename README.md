@@ -78,11 +78,6 @@ me.say_hi()
 
 
 ---
-## 📊 GitHub Stats
-
-![Amer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amer-Tarek&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amer-Tarek&layout=compact&theme=tokyonight)
 
 
 ## 🤝 Connect with Me
@@ -95,7 +90,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
 
